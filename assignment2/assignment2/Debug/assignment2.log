@@ -1,0 +1,43 @@
+﻿  trace.cpp
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(59): error C2248: “Triangle::b”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::b”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(59): error C2248: “Triangle::a”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::a”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(60): error C2248: “Triangle::c”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::c”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(60): error C2248: “Triangle::a”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::a”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(64): error C2248: “Triangle::a”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::a”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(68): error C2248: “Triangle::a”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::a”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(69): error C2248: “Triangle::b”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::b”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(69): error C2248: “Triangle::a”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::a”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(72): error C2248: “Triangle::b”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::b”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(73): error C2248: “Triangle::c”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::c”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(73): error C2248: “Triangle::b”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::b”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(76): error C2248: “Triangle::c”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::c”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(77): error C2248: “Triangle::a”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::a”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
+c:\users\great\downloads\research\assignment2\startercode\trace.cpp(77): error C2248: “Triangle::c”: 无法访问 private 成员(在“Triangle”类中声明)
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(41): note: 参见“Triangle::c”的声明
+  c:\users\great\downloads\research\assignment2\startercode\trace.h(40): note: 参见“Triangle”的声明
